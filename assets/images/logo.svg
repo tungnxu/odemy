@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="280" height="100.744" viewBox="0 0 280 100.744">
+  <g id="Group_7" data-name="Group 7" transform="translate(-520 -81.256)">
+    <text id="Odemy" transform="translate(520 88)" fill="#304757" font-size="75" font-family="Quicksand-Bold, Quicksand" font-weight="700"><tspan x="0" y="75">Odemy</tspan></text>
+    <g id="Group_3" data-name="Group 3" transform="translate(-175 -33)">
+      <g id="mortarboard" transform="matrix(0.891, 0.454, -0.454, 0.891, 766.708, 41.088)">
+        <g id="Group_2" data-name="Group 2" transform="translate(0 82.118)">
+          <path id="Path_1" data-name="Path 1" d="M40.988,104.774a3.012,3.012,0,0,0-1.61-1.634v-10.6a1.837,1.837,0,0,0,.276-.7,1.262,1.262,0,0,0-.69-1.12l-18.676-8.5a1.044,1.044,0,0,0-.92,0L.693,90.722A1.122,1.122,0,0,0,0,91.842a1.071,1.071,0,0,0,.782,1.027L7.179,95.11v8.4a1.173,1.173,0,0,0,.46.934,1.09,1.09,0,0,0,1.058.14,31.4,31.4,0,0,1,22.218,0l.414.093a1.093,1.093,0,0,0,.644-.233,1.078,1.078,0,0,0,.506-.934v-8.45l4.6-1.541v9.617a3.051,3.051,0,0,0-1.61,3.968,2.974,2.974,0,0,0,3.91,1.634A3.051,3.051,0,0,0,40.988,104.774Z" transform="translate(0 -82.119)" fill="#19c28b"/>
+        </g>
+      </g>
+      <path id="Path_2" data-name="Path 2" d="M684.143,108.564s11.145-.742,16.23,2.4a30.551,30.551,0,0,1,8.009,7.187" transform="matrix(0.995, 0.105, -0.105, 0.995, 60.324, -49.932)" fill="none" stroke="#fff" stroke-width="1"/>
+    </g>
+  </g>
+</svg>
