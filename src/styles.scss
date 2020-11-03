@@ -4,7 +4,7 @@
 Default CSS
 =================================================*/
 $font-family: 'Nunito', sans-serif;
-$font-family2: 'Playfair Display', serif;
+$font-family2: 'Nunito', serif;
 $main-color:  #21B990;
 $main-color2: #144251;
 $optional-color: #606060;
@@ -159,7 +159,7 @@ a {
         margin-bottom: 10px;
         font: {
             size: 14px;
-            weight: 600;
+            weight: 700;
         };
     }
     h2 {
@@ -171,7 +171,7 @@ a {
         };
         font: {
             size: 36px;
-            weight: 800;
+            weight: 700;
         };
     }
     p {
@@ -739,7 +739,7 @@ Navbar Area CSS
                                 margin-bottom: 0;
                                 font: {
                                     size: 20px;
-                                    weight: 800;
+                                    weight: 700;
                                 };
                             }
                             .sub-title {
@@ -747,7 +747,7 @@ Navbar Area CSS
                                 margin-top: 5px;
                                 color: $main-color;
                                 font: {
-                                    weight: 600;
+                                    weight: 700;
                                     size: 15px;
                                 };
                             }
@@ -805,7 +805,7 @@ Navbar Area CSS
                         background-color: $main-color;
                         font: {
                             size: 10px;
-                            weight: 600;
+                            weight: 700;
                         };
                     }
                     &:hover {
@@ -983,7 +983,7 @@ Navbar Area CSS
                         background-color: $main-color;
                         font: {
                             size: 10px;
-                            weight: 600;
+                            weight: 700;
                         };
                     }
                     &:hover {
@@ -1171,7 +1171,7 @@ Navbar Area CSS
                                         margin-top: 5px;
                                         color: $main-color;
                                         font: {
-                                            weight: 600;
+                                            weight: 700;
                                             size: 13px;
                                         };
                                     }
@@ -1283,7 +1283,7 @@ Navbar Area CSS
                                 background-color: $main-color;
                                 font: {
                                     size: 10px;
-                                    weight: 600;
+                                    weight: 700;
                                 };
                             }
                             &:hover {
@@ -1363,14 +1363,14 @@ Main Banner Area CSS
         margin-bottom: 25px;
         font: {
             size: 48px;
-            weight: 800;
+            weight: 700;
         };
     }
     p {
         max-width: 450px;
         line-height: 1.8;
         font: {
-            weight: 600;
+            weight: 700;
             size: 17px;
         };
     }
@@ -1471,14 +1471,14 @@ Main Banner Area CSS
         margin-bottom: 20px;
         font: {
             size: 48px;
-            weight: 800;
+            weight: 700;
         };
     }
     p {
         max-width: 450px;
         color: #d2d2d2;
         font: {
-            weight: 600;
+            weight: 700;
             size: 17px;
         };
     }
@@ -1558,7 +1558,7 @@ Main Banner Area CSS
         margin-bottom: 18px;
         font: {
             size: 48px;
-            weight: 800;
+            weight: 700;
         };
     }
     p {
@@ -1628,7 +1628,7 @@ Main Banner Area CSS
             top: 0;
             font: {
                 size: $font-size;
-                weight: 600;
+                weight: 700;
             };
             &:hover {
                 background-color: $black-color;
@@ -1649,7 +1649,7 @@ Main Banner Area CSS
             color: $optional-color;
             font: {
                 size: 15px;
-                weight: 600;
+                weight: 700;
             };
             &:last-child {
                 margin-right: 0;
@@ -1811,7 +1811,7 @@ Main Banner Area CSS
         color: $white-color;
         font: {
             size: 48px;
-            weight: 800;
+            weight: 700;
         };
     }
     p {
@@ -1845,18 +1845,18 @@ Main Banner Area CSS
     };
     h1 {
         margin-bottom: 12px;
-        max-width: 600px;
+        max-width: 700px;
         color: $white-color;
         font: {
             size: 48px;
-            weight: 800;
+            weight: 700;
         };
     }
     p {
         max-width: 500px;
         color: $white-color;
         font: {
-            weight: 600;
+            weight: 700;
             size: 18px;
         };
     }
@@ -1914,12 +1914,12 @@ Main Banner Area CSS
         margin-bottom: 18px;
         font: {
             size: 52px;
-            weight: 800;
+            weight: 700;
         };
     }
     p {
         font: {
-            weight: 600;
+            weight: 700;
             size: 17px;
         };
     }
@@ -2004,14 +2004,14 @@ Main Banner Area CSS
         margin-bottom: 25px;
         font: {
             size: 45px;
-            weight: 800;
+            weight: 700;
         };
     }
     p {
         padding-right: 50px;
         line-height: 1.8;
         font: {
-            weight: 600;
+            weight: 700;
             size: 17px;
         };
     }
@@ -2088,7 +2088,7 @@ Yoga Main Banner Area CSS
             color: $white-color;
             font: {
                 size: 55px;
-                weight: 800;
+                weight: 700;
             };
         }
         p {
@@ -2141,14 +2141,14 @@ Health Coaching Banner Area CSS
         color: $white-color;
         margin-bottom: 35px;
         font: {
-            weight: 800;
+            weight: 700;
             size: 70px;
         };
     }
     p {
         color: $white-color;
         font: {
-            weight: 600;
+            weight: 700;
             size: 17px;
         };
     }
@@ -2282,7 +2282,7 @@ Boxes Area CSS
         margin-bottom: 12px;
         font: {
             size: 23px;
-            weight: 800;
+            weight: 700;
         };
     }
     p {
@@ -2323,7 +2323,7 @@ Boxes Area CSS
 
     p {
         line-height: initial;
-        font-weight: 600;
+        font-weight: 700;
 
         a {
             font-weight: 700;
@@ -2360,7 +2360,7 @@ Features Area CSS
         margin-bottom: 15px;
         font: {
             size: 22px;
-            weight: 800;
+            weight: 700;
         };
     }
     p {
@@ -2435,7 +2435,7 @@ About Area CSS
         margin-bottom: 10px;
         font: {
             size: 14px;
-            weight: 600;
+            weight: 700;
         };
     }
     h2 {
@@ -2444,7 +2444,7 @@ About Area CSS
         };
         font: {
             size: 36px;
-            weight: 800;
+            weight: 700;
         };
     }
     .features-list {
@@ -2533,7 +2533,7 @@ About Area CSS
         margin-bottom: 10px;
         font: {
             size: 14px;
-            weight: 600;
+            weight: 700;
         };
     }
     h2 {
@@ -2542,7 +2542,7 @@ About Area CSS
         };
         font: {
             size: 36px;
-            weight: 800;
+            weight: 700;
         };
     }
     .link-btn {
@@ -2987,7 +2987,7 @@ Language Courses Area CSS
         margin-bottom: 12px;
         font: {
             size: 25px;
-            weight: 800;
+            weight: 700;
         };
     }
     p {
@@ -3400,8 +3400,8 @@ Kindergarten Services Area CSS
         h3 {
             margin-bottom: 10px;
             font: {
-                size: 24px;
-                weight: 800;
+                size: 20px;
+                weight: 700;
             };
         }
     }
@@ -3520,7 +3520,7 @@ Kindergarten Courses Area CSS
                 top: 0;
                 font: {
                     size: 20px;
-                    weight: 800;
+                    weight: 700;
                 };
             }
         }
@@ -3563,7 +3563,7 @@ Kindergarten Courses Area CSS
             span {
                 color: $white-color;
                 font: {
-                    weight: 600;
+                    weight: 700;
                     size: 15px;
                 };
             }
@@ -3573,8 +3573,8 @@ Kindergarten Courses Area CSS
             margin-bottom: 12px;
             line-height: 1.3;
             font: {
-                size: 24px;
-                weight: 800;
+                size: 20px;
+                weight: 700;
             };
             a {
                 display: inline-block;
@@ -3710,7 +3710,7 @@ Our Story Area CSS
         padding-left: 45px;
         font: {
             size: 28px;
-            weight: 800;
+            weight: 700;
         };
         .number {
             opacity: 0.38;
@@ -3789,17 +3789,17 @@ Courses Area CSS
             display: inline-block;
             background-color: $main-color;
             color: $white-color;
-            width: 65px;
-            height: 65px;
-            border-radius: 50%;
+            height: 40px;
+            border-radius: 10px;
             position: absolute;
             right: 20px;
-            bottom: -32.5px;
+            padding: 0 1rem;
+            bottom: -18.5px;
             text-align: center;
-            line-height: 67px;
+            line-height: 40px;
             font: {
-                size: 24px;
-                weight: 800;
+                size: 15px;
+                weight: 700;
             };
         }
     }
@@ -3818,7 +3818,7 @@ Courses Area CSS
             span {
                 color: $main-color;
                 font: {
-                    weight: 600;
+                    weight: 700;
                     size: 15px;
                 };
             }
@@ -3827,8 +3827,8 @@ Courses Area CSS
             margin-bottom: 12px;
             line-height: 1.3;
             font: {
-                size: 24px;
-                weight: 800;
+                size: 20px;
+                weight: 700;
             };
             a {
                 display: inline-block;
@@ -3973,7 +3973,7 @@ Courses Area CSS
             margin-bottom: 3px;
             font: {
                 size: 28px;
-                weight: 800;
+                weight: 700;
             };
         }
         h3 {
@@ -3981,7 +3981,7 @@ Courses Area CSS
             line-height: 1.3;
             font: {
                 size: 22px;
-                weight: 800;
+                weight: 700;
             };
             a {
                 display: inline-block;
@@ -4086,8 +4086,8 @@ Courses Area CSS
             line-height: 67px;
             z-index: 2;
             font: {
-                size: 24px;
-                weight: 800;
+                size: 20px;
+                weight: 700;
             };
             margin: {
                 left: auto;
@@ -4109,7 +4109,7 @@ Courses Area CSS
             span {
                 color: $main-color;
                 font: {
-                    weight: 600;
+                    weight: 700;
                     size: 15px;
                 };
             }
@@ -4119,7 +4119,7 @@ Courses Area CSS
             line-height: 1.3;
             font: {
                 size: 22px;
-                weight: 800;
+                weight: 700;
             };
             a {
                 display: inline-block;
@@ -4135,7 +4135,7 @@ Courses Area CSS
             .rating-total {
                 display: inline-block;
                 color: $optional-color;
-                font-weight: 600;
+                font-weight: 700;
                 position: relative;
                 top: -1.5px;
                 margin-left: 1px;
@@ -4560,8 +4560,8 @@ Yoga Courses Area CSS
         h3 {
             margin-bottom: 12px;
             font: {
-                size: 24px;
-                weight: 800;
+                size: 20px;
+                weight: 700;
             };
         }
         .default-btn {
@@ -4607,7 +4607,7 @@ Courses Details Area CSS
                 border-radius: 5px;
                 font: {
                     size: 18px;
-                    weight: 800;
+                    weight: 700;
                 };
                 &::before {
                     content: '';
@@ -4643,8 +4643,8 @@ Courses Details Area CSS
             h3 {
                 margin-bottom: 12px;
                 font: {
-                    size: 24px;
-                    weight: 800;
+                    size: 20px;
+                    weight: 700;
                 };
                 &:not(:first-child) {
                     margin-top: 30px;
@@ -4663,7 +4663,7 @@ Courses Details Area CSS
                 margin-bottom: 18px;
                 font: {
                     size: 20px;
-                    weight: 800;
+                    weight: 700;
                 };
                 &:not(:first-child) {
                     margin-top: 30px;
@@ -4798,7 +4798,7 @@ Courses Details Area CSS
                 margin-right: 15px;
                 font: {
                     size: 21px;
-                    weight: 800;
+                    weight: 700;
                 };
             }
             .rating {
@@ -4882,7 +4882,7 @@ Courses Details Area CSS
             .bar-2 {
                 width: 25%;
                 height: 18px;
-                background-color: #ff9800;
+                background-color: #ff9700;
                 border-radius: 5px;
             }
             .bar-1 {
@@ -4903,7 +4903,7 @@ Courses Details Area CSS
                 };
                 font: {
                     size: 21px;
-                    weight: 800;
+                    weight: 700;
                 };
             }
             .user-review {
@@ -5036,14 +5036,14 @@ Courses Details Area CSS
             color: $optional-color;
             font: {
                 size: 17px;
-                weight: 600;
+                weight: 700;
             };
             padding: {
                 top: 15px;
                 bottom: 14px;
             };
             span {
-                font-weight: 800;
+                font-weight: 700;
                 color: $black-color;
                 position: relative;
                 padding-left: 28px;
@@ -5062,13 +5062,13 @@ Courses Details Area CSS
                 color: $main-color;
                 font: {
                     size: 28px;
-                    weight: 800;
+                    weight: 700;
                 };
                 span {
                     color: $black-color;
                     font: {
                         size: 17px;
-                        weight: 800;
+                        weight: 700;
                     };
                 }
             }
@@ -5219,7 +5219,7 @@ Courses Details Area CSS
                 display: inline-block;
                 border-right: 1px solid #eeeeee;
                 font: {
-                    weight: 800;
+                    weight: 700;
                     size: 17px;
                 };
                 padding: {
@@ -5271,7 +5271,7 @@ Courses Details Area CSS
             top: -9px;
             font: {
                 size: 36px;
-                weight: 800;
+                weight: 700;
             };
         }
         .courses-review {
@@ -5312,8 +5312,8 @@ Courses Details Area CSS
     h3 {
         margin-bottom: 15px;
         font: {
-            size: 24px;
-            weight: 800;
+            size: 20px;
+            weight: 700;
         };
         &:not(first-child) {
             margin-top: 30px;
@@ -5374,7 +5374,7 @@ Courses Details Area CSS
             };
             font: {
                 size: 18px;
-                weight: 800;
+                weight: 700;
             };
             &:not(:first-child) {
                 margin-top: 30px;
@@ -5620,7 +5620,7 @@ Courses Details Area CSS
                             margin-bottom: 5px;
                             font: {
                                 size: 22px;
-                                weight: 800;
+                                weight: 700;
                             };
                         }
                         span {
@@ -5637,8 +5637,8 @@ Courses Details Area CSS
             display: inline-block;
             margin-right: 15px;
             font: {
-                size: 24px;
-                weight: 800;
+                size: 20px;
+                weight: 700;
             };
         }
         .rating {
@@ -5722,7 +5722,7 @@ Courses Details Area CSS
         .bar-2 {
             width: 25%;
             height: 18px;
-            background-color: #ff9800;
+            background-color: #ff9700;
             border-radius: 5px;
         }
         .bar-1 {
@@ -5797,8 +5797,8 @@ Courses Details Area CSS
     h3 {
         margin-bottom: 20px;
         font: {
-            size: 24px;
-            weight: 800;
+            size: 20px;
+            weight: 700;
         };
     }
 }
@@ -5818,14 +5818,14 @@ Courses Details Area CSS
             color: $optional-color;
             font: {
                 size: 17px;
-                weight: 600;
+                weight: 700;
             };
             padding: {
                 top: 15px;
                 bottom: 13px;
             };
             span {
-                font-weight: 800;
+                font-weight: 700;
                 color: $black-color;
                 position: relative;
                 padding-left: 28px;
@@ -5844,13 +5844,13 @@ Courses Details Area CSS
                 color: $main-color;
                 font: {
                     size: 28px;
-                    weight: 800;
+                    weight: 700;
                 };
                 span {
                     color: $black-color;
                     font: {
                         size: 17px;
-                        weight: 800;
+                        weight: 700;
                     };
                 }
             }
@@ -6001,7 +6001,7 @@ Slogan Area CSS
         margin-bottom: 0;
         font: {
             size: 20px;
-            weight: 600;
+            weight: 700;
         };
     }
     h3 {
@@ -6011,7 +6011,7 @@ Slogan Area CSS
         };
         font: {
             size: 20px;
-            weight: 800;
+            weight: 700;
         };
     }
     span {
@@ -6105,8 +6105,8 @@ Categories Area CSS
             margin-bottom: 8px;
             color: $white-color;
             font: {
-                size: 24px;
-                weight: 800;
+                size: 20px;
+                weight: 700;
             };
         }
         span {
@@ -6114,7 +6114,7 @@ Categories Area CSS
             display: block;
             font: {
                 size: 15px;
-                weight: 600;
+                weight: 700;
             };
         }
     }
@@ -6176,7 +6176,7 @@ Advisor Area CSS
             margin-bottom: 0;
             font: {
                 size: 22px;
-                weight: 800;
+                weight: 700;
             };
         }
         .sub-title {
@@ -6185,7 +6185,7 @@ Advisor Area CSS
             margin-top: 7px;
             font: {
                 size: 15px;
-                weight: 600;
+                weight: 700;
             };
         }
         p {
@@ -6367,7 +6367,7 @@ Advisor Area CSS
             margin-bottom: 0;
             font: {
                 size: 23px;
-                weight: 800;
+                weight: 700;
             };
         }
         span {
@@ -6376,7 +6376,7 @@ Advisor Area CSS
             margin-top: 7px;
             font: {
                 size: 15px;
-                weight: 600;
+                weight: 700;
             };
         }
     }
@@ -6499,8 +6499,8 @@ Start With Success Area CSS
         }
         h3 {
             font: {
-                weight: 800;
-                size: 24px;
+                weight: 700;
+                size: 20px;
             };
         }
         span {
@@ -6508,7 +6508,7 @@ Start With Success Area CSS
             color: $main-color;
             font: {
                 size: 15px;
-                weight: 600;
+                weight: 700;
             };
         }
     }
@@ -6602,7 +6602,7 @@ Funfacts Area CSS
     margin-bottom: 30px;
     background-color: #eee8e2;
     text-align: center;
-    border: 1px dashed #308800;
+    border: 1px dashed #308700;
     transition: $transition;
     position: relative;
     overflow: hidden;
@@ -6618,7 +6618,7 @@ Funfacts Area CSS
         color: $main-color;
         font: {
             size: 44px;
-            weight: 800;
+            weight: 700;
         };
         span {
             font-size: 48px;
@@ -6676,7 +6676,7 @@ Funfacts Area CSS
         color: $main-color;
         font: {
             size: 44px;
-            weight: 800;
+            weight: 700;
         };
         span {
             font-size: 48px;
@@ -6742,7 +6742,7 @@ Funfacts Area CSS
         color: $main-color;
         font: {
             size: 44px;
-            weight: 800;
+            weight: 700;
         };
         span {
             font-size: 48px;
@@ -6775,7 +6775,7 @@ Feedback Area CSS
         margin-bottom: 8px;
         font: {
             size: 14px;
-            weight: 600;
+            weight: 700;
         };
     }
     h2 {
@@ -6784,7 +6784,7 @@ Feedback Area CSS
         };
         font: {
             size: 36px;
-            weight: 800;
+            weight: 700;
         };
     }
     p {
@@ -6794,7 +6794,7 @@ Feedback Area CSS
     }
     .feedback-info {
         p {
-            font-weight: 600;
+            font-weight: 700;
             margin: {
                 bottom: 0;
             };
@@ -6829,7 +6829,7 @@ Feedback Area CSS
         line-height: 1.8;
         font: {
             size: $font-size;
-            weight: 600;
+            weight: 700;
         };
         margin: {
             top: 0;
@@ -7004,7 +7004,7 @@ Feedback Area CSS
         color: $black-color;
         font: {
             size: 20px;
-            weight: 600;
+            weight: 700;
         };
         margin: {
             top: 0;
@@ -7102,7 +7102,7 @@ Feedback Area CSS
         line-height: 1.8;
         font: {
             size: $font-size;
-            weight: 600;
+            weight: 700;
         };
         margin: {
             top: 0;
@@ -7211,8 +7211,8 @@ Feedback Area CSS
         margin-bottom: 0;
         color: $black-color;
         font: {
-            size: 24px;
-            weight: 600;
+            size: 20px;
+            weight: 700;
         };
     }
     h3 {
@@ -7346,7 +7346,7 @@ Feedback Area CSS
                 margin-bottom: 5px;
                 font: {
                     size: 20px;
-                    weight: 800;
+                    weight: 700;
                 };
             }
             span {
@@ -7361,7 +7361,7 @@ Feedback Area CSS
         &.owl-theme {
             position: relative;
             z-index: 1;
-            max-width: 600px;
+            max-width: 700px;
             border-radius: 5px;
             margin-left: 100px;
 
@@ -7502,7 +7502,7 @@ Feedback Area CSS
         margin-bottom: 60px;
         font: {
             size: 36px;
-            weight: 800;
+            weight: 700;
         };
     }
 }
@@ -7517,7 +7517,7 @@ Feedback Area CSS
     p {
         font: {
             size: 19px;
-            weight: 600;
+            weight: 700;
         };
     }
     .client-info {
@@ -7728,7 +7728,7 @@ Profile Area CSS
             margin-bottom: 7px;
             font: {
                 size: 23px;
-                weight: 800;
+                weight: 700;
             };
         }
         .sub-title {
@@ -7737,7 +7737,7 @@ Profile Area CSS
             margin-bottom: 15px;
             font: {
                 size: 15px;
-                weight: 600;
+                weight: 700;
             };
         }
         .info {
@@ -7747,7 +7747,7 @@ Profile Area CSS
 
             li {
                 margin-bottom: 8px;
-                font-weight: 600;
+                font-weight: 700;
 
                 span {
                     color: $optional-color;
@@ -7829,7 +7829,7 @@ Profile Area CSS
                 };
                 font: {
                     size: 17px;
-                    weight: 800;
+                    weight: 700;
                 };
                 margin: {
                     left: 10px;
@@ -7879,7 +7879,7 @@ Profile Area CSS
                     };
                     font: {
                         size: $font-size;
-                        weight: 600;
+                        weight: 700;
                     };
                     margin: {
                         left: 5px;
@@ -7910,7 +7910,7 @@ Profile Area CSS
                         };
                         font: {
                             size: 17px;
-                            weight: 600;
+                            weight: 700;
                         };
                         margin: {
                             left: 10px;
@@ -7944,7 +7944,7 @@ Profile Area CSS
                         border: none;
                         font: {
                             size: 18px;
-                            weight: 800;
+                            weight: 700;
                         };
                         padding: {
                             top: 14px;
@@ -7964,7 +7964,7 @@ Profile Area CSS
                         border: none;
                         font: {
                             size: $font-size;
-                            weight: 600;
+                            weight: 700;
                         };
                         padding: {
                             top: 15px;
@@ -8111,7 +8111,7 @@ Video Area CSS
 .video-box {
     position: relative;
     border-radius: 5px;
-    max-width: 800px;
+    max-width: 700px;
     z-index: 1;
     margin: {
         left: auto;
@@ -8240,7 +8240,7 @@ Get Instant Courses Area CSS
         margin-bottom: 10px;
         font: {
             size: 14px;
-            weight: 600;
+            weight: 700;
         };
     }
     h2 {
@@ -8249,7 +8249,7 @@ Get Instant Courses Area CSS
         };
         font: {
             size: 36px;
-            weight: 800;
+            weight: 700;
         };
     }
     .default-btn {
@@ -8347,8 +8347,8 @@ Events Area CSS
             margin-bottom: 0;
             line-height: 1.3;
             font: {
-                size: 24px;
-                weight: 800;
+                size: 20px;
+                weight: 700;
             };
             a {
                 display: inline-block;
@@ -8432,8 +8432,8 @@ Events Area CSS
             margin-bottom: 0;
             line-height: 1.3;
             font: {
-                size: 24px;
-                weight: 800;
+                size: 20px;
+                weight: 700;
             };
             a {
                 display: inline-block;
@@ -8555,8 +8555,8 @@ Events Area CSS
             margin-bottom: 12px;
             line-height: 1.3;
             font: {
-                size: 24px;
-                weight: 800;
+                size: 20px;
+                weight: 700;
             };
             a {
                 display: inline-block;
@@ -8603,7 +8603,7 @@ Events Details Area CSS
             display: inline-block;
             margin-right: 18px;
             color: $optional-color;
-            font-weight: 600;
+            font-weight: 700;
             position: relative;
             padding-left: 22px;
 
@@ -8628,8 +8628,8 @@ Events Details Area CSS
     h3 {
         margin-bottom: 12px;
         font: {
-            size: 24px;
-            weight: 800;
+            size: 20px;
+            weight: 700;
         };
         &:not(:first-child) {
             margin-top: 30px;
@@ -8668,7 +8668,7 @@ Events Details Area CSS
             border-radius: 5px;
             font: {
                 size: 50px;
-                weight: 800;
+                weight: 700;
             };
             margin: {
                 left: 8px;
@@ -8713,14 +8713,14 @@ Events Details Area CSS
             color: $optional-color;
             font: {
                 size: 17px;
-                weight: 600;
+                weight: 700;
             };
             padding: {
                 top: 15px;
                 bottom: 14px;
             };
             span {
-                font-weight: 800;
+                font-weight: 700;
                 color: $black-color;
                 position: relative;
             }
@@ -8734,13 +8734,13 @@ Events Details Area CSS
                 color: $main-color;
                 font: {
                     size: 28px;
-                    weight: 800;
+                    weight: 700;
                 };
                 span {
                     color: $black-color;
                     font: {
                         size: 17px;
-                        weight: 800;
+                        weight: 700;
                     };
                 }
             }
@@ -8775,7 +8775,7 @@ Events Details Area CSS
         }
         p {
             margin-top: 15px;
-            font-weight: 600;
+            font-weight: 700;
 
             a {
                 color: $main-color;
@@ -8900,8 +8900,8 @@ Lifestyle Area CSS
     h3 {
         margin-bottom: 17px;
         font: {
-            size: 24px;
-            weight: 800;
+            size: 20px;
+            weight: 700;
         };
     }
     p {
@@ -8956,7 +8956,7 @@ Program Area CSS
         };
         font: {
             size: 36px;
-            weight: 800;
+            weight: 700;
         };
     }
     p {
@@ -9037,7 +9037,7 @@ Program Area CSS
         margin-bottom: 15px;
         font: {
             size: 22px;
-            weight: 800;
+            weight: 700;
         };
     }
     .link-btn {
@@ -9096,8 +9096,8 @@ Health Services Area CSS
     h3 {
         margin-bottom: 12px;
         font: {
-            size: 24px;
-            weight: 800;
+            size: 20px;
+            weight: 700;
         };
     }
     &:hover {
@@ -9185,8 +9185,8 @@ Blog Area CSS
             margin-bottom: 12px;
             line-height: 1.3;
             font: {
-                size: 24px;
-                weight: 800;
+                size: 20px;
+                weight: 700;
             };
             a {
                 display: inline-block;
@@ -9218,7 +9218,7 @@ Blog Area CSS
                     span {
                         color: $main-color;
                         font: {
-                            weight: 600;
+                            weight: 700;
                             size: 15px;
                         };
                     }
@@ -9282,8 +9282,8 @@ Blog Area CSS
             margin-bottom: 0;
             line-height: 1.3;
             font: {
-                size: 24px;
-                weight: 800;
+                size: 20px;
+                weight: 700;
             };
             a {
                 display: inline-block;
@@ -9316,7 +9316,7 @@ Blog Area CSS
                     span {
                         color: $main-color;
                         font: {
-                            weight: 600;
+                            weight: 700;
                             size: 15px;
                         };
                     }
@@ -9350,7 +9350,7 @@ Blog Area CSS
     padding-top: 30px;
 
     p {
-        max-width: 600px;
+        max-width: 700px;
         margin: {
             left: auto;
             right: auto;
@@ -9411,8 +9411,8 @@ Blog Area CSS
             margin-bottom: 12px;
             line-height: 1.3;
             font: {
-                size: 24px;
-                weight: 800;
+                size: 20px;
+                weight: 700;
             };
             a {
                 display: inline-block;
@@ -9444,7 +9444,7 @@ Blog Area CSS
                     span {
                         color: $main-color;
                         font: {
-                            weight: 600;
+                            weight: 700;
                             size: 15px;
                         };
                     }
@@ -9634,8 +9634,8 @@ Blog Area CSS
             margin-bottom: 0;
             line-height: 1.3;
             font: {
-                size: 24px;
-                weight: 800;
+                size: 20px;
+                weight: 700;
             };
             a {
                 display: inline-block;
@@ -9728,7 +9728,7 @@ Blog Details Area CSS
                     display: inline-block;
                     border-right: 1px solid #eeeeee;
                     font: {
-                        weight: 600;
+                        weight: 700;
                         size: $font-size;
                     };
                     padding: {
@@ -9750,7 +9750,7 @@ Blog Details Area CSS
                         margin-bottom: 2px;
                         font: {
                             size: 14px;
-                            weight: 600;
+                            weight: 700;
                         };
                     }
                     a {
@@ -9774,8 +9774,8 @@ Blog Details Area CSS
                 top: 28px;
             };
             font: {
-                size: 24px;
-                weight: 800;
+                size: 20px;
+                weight: 700;
             };
         }
         .wp-block-gallery {
@@ -9983,7 +9983,7 @@ Blog Details Area CSS
                             margin-bottom: 5px;
                             font: {
                                 size: 22px;
-                                weight: 800;
+                                weight: 700;
                             };
                         }
                         span {
@@ -10142,7 +10142,7 @@ blockquote, .blockquote {
     .prev-title {
         display: inline-block;
         font: {
-            weight: 800;
+            weight: 700;
             size: 16.5px;
         };
     }
@@ -10239,7 +10239,7 @@ blockquote, .blockquote {
     .next-title {
         display: inline-block;
         font: {
-            weight: 800;
+            weight: 700;
             size: 16.5px;
         };
     }
@@ -10263,8 +10263,8 @@ blockquote, .blockquote {
             bottom: 30px;
         };
         font: {
-            size: 24px;
-            weight: 800;
+            size: 20px;
+            weight: 700;
         };
     }
     ol, ul {
@@ -10324,7 +10324,7 @@ blockquote, .blockquote {
         }
         .fn {
             font: {
-                weight: 800;
+                weight: 700;
             };
         }
         .says {
@@ -10355,8 +10355,8 @@ blockquote, .blockquote {
         .comment-reply-title {
             margin-bottom: 0;
             font: {
-                size: 24px;
-                weight: 800;
+                size: 20px;
+                weight: 700;
             };
             #cancel-comment-reply-link {
                 display: inline-block;
@@ -10392,7 +10392,7 @@ blockquote, .blockquote {
             border-radius: 3px;
             color: $black-color;
             font: {
-                weight: 600;
+                weight: 700;
                 size: 15px;
             };
             &::placeholder {
@@ -10467,7 +10467,7 @@ blockquote, .blockquote {
                 transition: $transition;
                 border-radius: 0;
                 font: {
-                    weight: 800;
+                    weight: 700;
                     size: 14.5px;
                 };
                 &:hover, &:focus {
@@ -10516,7 +10516,7 @@ Become Instructor & Partner CSS
         margin-bottom: 10px;
         font: {
             size: 36px;
-            weight: 800;
+            weight: 700;
         };
     }
     p {
@@ -10607,7 +10607,7 @@ View All Courses Area CSS
     margin-left: auto;
     position: relative;
     z-index: 1;
-    max-width: 600px;
+    max-width: 700px;
 
     .sub-title {
         display: block;
@@ -10616,7 +10616,7 @@ View All Courses Area CSS
         margin-bottom: 8px;
         font: {
             size: 14px;
-            weight: 600;
+            weight: 700;
         };
     }
     h2 {
@@ -10625,7 +10625,7 @@ View All Courses Area CSS
         };
         font: {
             size: 36px;
-            weight: 800;
+            weight: 700;
         };
     }
     p {
@@ -10715,7 +10715,7 @@ Information Area CSS
         margin-bottom: 8px;
         font: {
             size: 14px;
-            weight: 600;
+            weight: 700;
         };
     }
     h2 {
@@ -10724,7 +10724,7 @@ Information Area CSS
         };
         font: {
             size: 36px;
-            weight: 800;
+            weight: 700;
         };
     }
     .apply-details {
@@ -10755,8 +10755,8 @@ Information Area CSS
             h3 {
                 margin-bottom: 10px;
                 font: {
-                    size: 24px;
-                    weight: 800;
+                    size: 20px;
+                    weight: 700;
                 };
             }
             &:hover {
@@ -10783,7 +10783,7 @@ Free Trial Area CSS
         margin-bottom: 8px;
         font: {
             size: 14px;
-            weight: 600;
+            weight: 700;
         };
     }
     h2 {
@@ -10792,7 +10792,7 @@ Free Trial Area CSS
         };
         font: {
             size: 36px;
-            weight: 800;
+            weight: 700;
         };
     }
     form {
@@ -10869,7 +10869,7 @@ Newsletter Modal CSS
                 margin-bottom: 15px;
                 font: {
                     size: 36px;
-                    weight: 800;
+                    weight: 700;
                 };
             }
             .sub-text {
@@ -10877,7 +10877,7 @@ Newsletter Modal CSS
                 display: block;
                 line-height: 1.5;
                 font: {
-                    weight: 600;
+                    weight: 700;
                     size: 17px;
                 };
             }
@@ -10901,7 +10901,7 @@ Newsletter Modal CSS
                     border-radius: 5px;
                     font: {
                         size: 15px;
-                        weight: 600;
+                        weight: 700;
                     };
                     &::placeholder {
                         color: $optional-color;
@@ -10984,7 +10984,7 @@ Training Area CSS
         margin-bottom: 14px;
         font: {
             size: 23px;
-            weight: 800;
+            weight: 700;
         };
     }
     p {
@@ -11082,14 +11082,14 @@ Overview Area CSS
             margin-bottom: 10px;
             font: {
                 size: 14px;
-                weight: 600;
+                weight: 700;
             };
         }
         h2 {
             margin-bottom: 15px;
             font: {
                 size: 36px;
-                weight: 800;
+                weight: 700;
             };
         }
         .default-btn {
@@ -11185,7 +11185,7 @@ Teacher Register Area CSS
 .teacher-register-box {
     overflow: hidden;
     margin-left: auto;
-    max-width: 600px;
+    max-width: 700px;
     padding: 45px;
     border-radius: 5px;
     background: {
@@ -11200,7 +11200,7 @@ Teacher Register Area CSS
         color: $white-color;
         font: {
             size: 33px;
-            weight: 800;
+            weight: 700;
         };
     }
     p {
@@ -11224,7 +11224,7 @@ Teacher Register Area CSS
             border-radius: 5px;
             font: {
                 size: $font-size;
-                weight: 600;
+                weight: 700;
             };
             &::placeholder {
                 color: #cdcdcd;
@@ -11271,14 +11271,14 @@ Experience Area CSS
         margin-bottom: 10px;
         font: {
             size: 14px;
-            weight: 600;
+            weight: 700;
         };
     }
     h2 {
         margin-bottom: 15px;
         font: {
             size: 36px;
-            weight: 800;
+            weight: 700;
         };
     }
     .features-list {
@@ -11436,7 +11436,7 @@ Experience Area CSS
             weight: 700;
         };
         span {
-            font-weight: 800;
+            font-weight: 700;
         }
     }
 }
@@ -11501,7 +11501,7 @@ Experience Area CSS
             weight: 700;
         };
         span {
-            font-weight: 800;
+            font-weight: 700;
         }
     }
 }
@@ -11555,12 +11555,12 @@ Download Syllabus Area CSS
         margin-bottom: 10px;
         font: {
             size: 36px;
-            weight: 800;
+            weight: 700;
         };
     }
     p {
         margin-bottom: 0;
-        font-weight: 600;
+        font-weight: 700;
         color: $white-color;
     }
     form {
@@ -11731,7 +11731,7 @@ Premium Access Area CSS
         margin-bottom: 8px;
         font: {
             size: 14px;
-            weight: 600;
+            weight: 700;
         };
     }
     h2 {
@@ -11743,7 +11743,7 @@ Premium Access Area CSS
         };
         font: {
             size: 36px;
-            weight: 800;
+            weight: 700;
         };
     }
     p {
@@ -11777,7 +11777,7 @@ Apply Instructor Area CSS
         margin-bottom: 18px;
         font: {
             size: 36px;
-            weight: 800;
+            weight: 700;
         };
     }
     img {
@@ -11807,7 +11807,7 @@ Apply Instructor Area CSS
                 position: relative;
                 font: {
                     size: 18px;
-                    weight: 800;
+                    weight: 700;
                 };
                 &::before {
                     content: '';
@@ -11835,8 +11835,8 @@ Apply Instructor Area CSS
     h3 {
         margin-bottom: 13px;
         font: {
-            size: 24px;
-            weight: 800;
+            size: 20px;
+            weight: 700;
         };
         &:not(:first-child) {
             margin-top: 30px;
@@ -11869,7 +11869,7 @@ Page Title Area CSS
             color: $black-color;
             font: {
                 size: $font-size;
-                weight: 600;
+                weight: 700;
             };
             &::before {
                 content: '';
@@ -11901,7 +11901,7 @@ Page Title Area CSS
     }
     h2 {
         text-align: center;
-        max-width: 800px;
+        max-width: 700px;
         margin: {
             top: 80px;
             bottom: 0;
@@ -11910,7 +11910,7 @@ Page Title Area CSS
         };
         font: {
             size: 36px;
-            weight: 800;
+            weight: 700;
         };
     }
     .rating {
@@ -11932,7 +11932,7 @@ Page Title Area CSS
             top: -2px;
             font: {
                 size: $font-size;
-                weight: 600;
+                weight: 700;
             };
         }
     }
@@ -11965,7 +11965,7 @@ Subscribe Area CSS
         margin-bottom: 8px;
         font: {
             size: 14px;
-            weight: 600;
+            weight: 700;
         };
     }
     h2 {
@@ -11977,7 +11977,7 @@ Subscribe Area CSS
         };
         font: {
             size: 36px;
-            weight: 800;
+            weight: 700;
         };
     }
     p {
@@ -12199,8 +12199,8 @@ Pricing Area CSS
             background-color: #f9f9f9;
             text-transform: uppercase;
             font: {
-                size: 24px;
-                weight: 800;
+                size: 20px;
+                weight: 700;
             };
             padding: {
                 top: 14px;
@@ -12227,7 +12227,7 @@ Pricing Area CSS
                 color: #4b5280;
                 font: {
                     size: 16.5px;
-                    weight: 600;
+                    weight: 700;
                 };
                 &:last-child {
                     margin-bottom: 0;
@@ -12238,7 +12238,7 @@ Pricing Area CSS
     .price {
         font: {
             size: 42px;
-            weight: 800;
+            weight: 700;
         };
         span {
             display: block;
@@ -12246,7 +12246,7 @@ Pricing Area CSS
             margin-top: -5px;
             font: {
                 size: 18px;
-                weight: 600;
+                weight: 700;
             };
         }
     }
@@ -12344,7 +12344,7 @@ Products Area CSS
                             line-height: 28px;
                             font: {
                                 size: 12px;
-                                weight: 800;
+                                weight: 700;
                             };
                             &::before {
                                 content: '';
@@ -12426,7 +12426,7 @@ Products Area CSS
             margin-bottom: 0;
             font: {
                 size: 20px;
-                weight: 800;
+                weight: 700;
             };
             a {
                 display: inline-block;
@@ -12437,7 +12437,7 @@ Products Area CSS
             transition: $transition;
             font: {
                 size: $font-size;
-                weight: 800;
+                weight: 700;
             };
             .old-price {
                 text-decoration: line-through;
@@ -12469,7 +12469,7 @@ Products Area CSS
             transform: translateX(20px);
             font: {
                 size: 14px;
-                weight: 800;
+                weight: 700;
             };
             &:hover {
                 color: $main-color;
@@ -12528,8 +12528,8 @@ Products Details Area CSS
     h3 {
         margin-bottom: 15px;
         font: {
-            size: 24px;
-            weight: 800;
+            size: 20px;
+            weight: 700;
         }
     }
     .price {
@@ -12537,7 +12537,7 @@ Products Details Area CSS
         color: $main-color;
         font: {
             size: 15px;
-            weight: 600;
+            weight: 700;
         }
         .old-price {
             text-decoration: line-through;
@@ -12566,7 +12566,7 @@ Products Details Area CSS
             line-height: initial;
             position: relative;
             top: -3px;
-            font-weight: 600;
+            font-weight: 700;
 
             &:hover {
                 color: $main-color;
@@ -12588,7 +12588,7 @@ Products Details Area CSS
             span {
                 display: inline-block;
                 margin-bottom: 0;
-                font-weight: 600;
+                font-weight: 700;
 
                 &.sku {
                     color: $main-color;
@@ -12600,7 +12600,7 @@ Products Details Area CSS
             a {
                 display: inline-block;
                 color: $optional-color;
-                font-weight: 600;
+                font-weight: 700;
 
                 &:hover, &:focus {
                     color: $main-color;
@@ -12655,7 +12655,7 @@ Products Details Area CSS
                 width: 100%;
                 font: {
                     size: 17px;
-                    weight: 600;
+                    weight: 700;
                 }
                 &::placeholder {
                     color: $black-color;
@@ -12776,7 +12776,7 @@ Products Details Area CSS
                 padding-bottom: 8px;
                 font: {
                     size: 20px;
-                    weight: 800;
+                    weight: 700;
                 };
                 &::before {
                     content: '';
@@ -12842,8 +12842,8 @@ Products Details Area CSS
                     display: inline-block;
                     margin-right: 15px;
                     font: {
-                        size: 24px;
-                        weight: 800;
+                        size: 20px;
+                        weight: 700;
                     };
                 }
                 .rating {
@@ -12925,7 +12925,7 @@ Products Details Area CSS
                 .bar-2 {
                     width: 25%;
                     height: 18px;
-                    background-color: #ff9800;
+                    background-color: #ff9700;
                     border-radius: 5px;
                 }
                 .bar-1 {
@@ -12946,8 +12946,8 @@ Products Details Area CSS
                         bottom: 10px;
                     };
                     font: {
-                        size: 24px;
-                        weight: 800;
+                        size: 20px;
+                        weight: 700;
                     };
                 }
                 .user-review {
@@ -13003,8 +13003,8 @@ Products Details Area CSS
                 h3 {
                     margin-bottom: 10px;
                     font: {
-                        size: 24px;
-                        weight: 800;
+                        size: 20px;
+                        weight: 700;
                     };
                 }
                 .comment-notes {
@@ -13069,7 +13069,7 @@ Products Details Area CSS
                             margin-bottom: 0;
                             color: $optional-color;
                             font: {
-                                weight: 600;
+                                weight: 700;
                             };
                         }
                         [type="checkbox"]:checked + label:before, [type="checkbox"]:not(:checked) + label:before {
@@ -13156,7 +13156,7 @@ Cart Area CSS
                     white-space: nowrap;
                     font: {
                         size: $font-size;
-                        weight: 800;
+                        weight: 700;
                     };
                 }
             }
@@ -13244,7 +13244,7 @@ Cart Area CSS
                                 width: 100%;
                                 font: {
                                     size: 17px;
-                                    weight: 600;
+                                    weight: 700;
                                 }
                                 &::placeholder {
                                     color: $black-color;
@@ -13303,8 +13303,8 @@ Cart Area CSS
     h3 {
         margin-bottom: 25px;
         font: {
-            size: 24px;
-            weight: 800;
+            size: 20px;
+            weight: 700;
         };
     }
     ul {
@@ -13332,7 +13332,7 @@ Cart Area CSS
                 };
                 span {
                     color: $black-color;
-                    font-weight: 600;
+                    font-weight: 700;
                 }
             }
             span {
@@ -13381,8 +13381,8 @@ Checkout Area CSS
         padding-bottom: 10px;
         border-bottom: 1px solid #eeeeee;
         font: {
-            size: 24px;
-            weight: 800;
+            size: 20px;
+            weight: 700;
         };
         &::before {
             content: '';
@@ -13509,7 +13509,7 @@ Checkout Area CSS
 
         .form-check-label {
             color: $black-color;
-            font-weight: 600;
+            font-weight: 700;
         }
         label {
             position: relative;
@@ -13535,8 +13535,8 @@ Checkout Area CSS
         padding-bottom: 10px;
         border-bottom: 1px solid #eeeeee;
         font: {
-            size: 24px;
-            weight: 800;
+            size: 20px;
+            weight: 700;
         };
         &::before {
             content: '';
@@ -13561,7 +13561,7 @@ Checkout Area CSS
                         padding: 12px 20px 10px;
                         white-space: nowrap;
                         font: {
-                            weight: 800;
+                            weight: 700;
                             size: $font-size;
                         };
                     }
@@ -13593,7 +13593,7 @@ Checkout Area CSS
                             span {
                                 color: $black-color;
                                 font: {
-                                    weight: 800;
+                                    weight: 700;
                                     size: 16px;
                                 };
                             }
@@ -13601,7 +13601,7 @@ Checkout Area CSS
                         &.shipping-price, &.order-subtotal-price, &.product-subtotal {
                             color: $black-color;
                             font: {
-                                weight: 800;
+                                weight: 700;
                                 size: 16px;
                             };
                         }
@@ -13633,7 +13633,7 @@ Checkout Area CSS
                             position: relative;
                             margin-bottom: 8px;
                             font: {
-                                weight: 800;
+                                weight: 700;
                             }
                             &::before {
                                 content: '';
@@ -13711,7 +13711,7 @@ Widget Sidebar CSS
             border-bottom: 1px solid #eeeeee;
             font: {
                 size: 22px;
-                weight: 800;
+                weight: 700;
             };
             &::before {
                 content: '';
@@ -14103,7 +14103,7 @@ Widget Sidebar CSS
                     };
                     font: {
                         size: 18px;
-                        weight: 800;
+                        weight: 700;
                         style: italic;
                     };
                 }
@@ -14224,7 +14224,7 @@ Widget Sidebar CSS
                     };
                     font: {
                         size: 18px;
-                        weight: 800;
+                        weight: 700;
                         style: italic;
                     };
                 }
@@ -14279,7 +14279,7 @@ Privacy Policy Area CSS
         };
         font: {
             size: 22px;
-            weight: 800;
+            weight: 700;
         };
     }
     .blockquote, blockquote {
@@ -14332,7 +14332,7 @@ Terms of Service Area CSS
         };
         font: {
             size: 22px;
-            weight: 800;
+            weight: 700;
         };
     }
     .blockquote, blockquote {
@@ -14385,7 +14385,7 @@ Purchase Guide Area CSS
         };
         font: {
             size: 22px;
-            weight: 800;
+            weight: 700;
         };
     }
     .blockquote, blockquote {
@@ -14446,7 +14446,7 @@ Membership Levels Area CSS
                     margin-bottom: 0;
                     font: {
                         size: 35px;
-                        weight: 800;
+                        weight: 700;
                     };
                 }
                 h3 {
@@ -14479,7 +14479,7 @@ Membership Levels Area CSS
                     text-align: center;
                     font: {
                         size: $font-size;
-                        weight: 600;
+                        weight: 700;
                     };
                     &:first-child {
                         text-align: left;
@@ -14552,7 +14552,7 @@ Pagination CSS
         };
         font: {
             size: $font-size;
-            weight: 800;
+            weight: 700;
         };
         &:hover, &.current {
             color: $white-color;
@@ -14581,7 +14581,7 @@ Pagination CSS
         };
         font: {
             size: 40px;
-            weight: 800;
+            weight: 700;
         };
     }
     p {
@@ -14712,7 +14712,7 @@ Coming Soon Area CSS
     overflow: hidden;
     text-align: center;
     padding: 40px 60px;
-    box-shadow: 1px 5px 24px 0 rgba(68,102,242,.05);
+    box-shadow: 1px 5px 20px 0 rgba(68,102,242,.05);
     margin: {
         left: auto;
         right: auto;
@@ -14723,7 +14723,7 @@ Coming Soon Area CSS
     h2 {
         font: {
             size: 40px;
-            weight: 800;
+            weight: 700;
         };
         margin: {
             top: 30px;
@@ -14741,7 +14741,7 @@ Coming Soon Area CSS
             border-radius: 5px;
             font: {
                 size: 40px;
-                weight: 800;
+                weight: 700;
             };
             margin: {
                 left: 10px;
@@ -14752,7 +14752,7 @@ Coming Soon Area CSS
                 margin-top: -2px;
                 font: {
                     size: 17px;
-                    weight: 600;
+                    weight: 700;
                 };
             }
         }
@@ -14860,7 +14860,7 @@ Profile Authentication Area CSS
         margin-bottom: 25px;
         font: {
             size: 36px;
-            weight: 800;
+            weight: 700;
         };
     }
     form {
@@ -14889,7 +14889,7 @@ Profile Authentication Area CSS
                 margin-bottom: 0;
                 color: $optional-color;
                 font: {
-                    weight: 600;
+                    weight: 700;
                 };
             }
             [type="checkbox"]:checked + label:before, [type="checkbox"]:not(:checked) + label:before {
@@ -14938,7 +14938,7 @@ Profile Authentication Area CSS
             a {
                 display: inline-block;
                 position: relative;
-                font-weight: 600;
+                font-weight: 700;
                 line-height: 1.3;
 
                 &::before {
@@ -15003,7 +15003,7 @@ Profile Authentication Area CSS
         margin-bottom: 25px;
         font: {
             size: 36px;
-            weight: 800;
+            weight: 700;
         };
     }
     form {
@@ -15062,7 +15062,7 @@ Contact Area CSS
         margin-bottom: 8px;
         font: {
             size: 14px;
-            weight: 600;
+            weight: 700;
         };
     }
     h2 {
@@ -15071,7 +15071,7 @@ Contact Area CSS
         };
         font: {
             size: 36px;
-            weight: 800;
+            weight: 700;
         };
     }
     ul {
@@ -15111,12 +15111,12 @@ Contact Area CSS
             h3 {
                 margin-bottom: 8px;
                 font: {
-                    size: 24px;
-                    weight: 800;
+                    size: 20px;
+                    weight: 700;
                 };
             }
             p {
-                font-weight: 600;
+                font-weight: 700;
                 max-width: 300px;
                 margin: {
                     bottom: 0;
@@ -15152,7 +15152,7 @@ Contact Area CSS
         color: $white-color;
         font: {
             size: 33px;
-            weight: 800;
+            weight: 700;
         };
     }
     p {
@@ -15176,7 +15176,7 @@ Contact Area CSS
             border-radius: 5px;
             font: {
                 size: $font-size;
-                weight: 600;
+                weight: 700;
             };
             &::placeholder {
                 color: #cdcdcd;
@@ -15255,8 +15255,8 @@ Footer Area CSS
         position: relative;
         color: $white-color;
         font: {
-            size: 24px;
-            weight: 800;
+            size: 20px;
+            weight: 700;
         };
     }
     p {
@@ -15372,7 +15372,7 @@ Footer Area CSS
         }
         a {
             color: $main-color;
-            font-weight: 600;
+            font-weight: 700;
 
             &:hover {
                 color: $white-color;
