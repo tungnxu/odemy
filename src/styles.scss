@@ -3805,7 +3805,7 @@ Courses Area CSS
     }
     .courses-content {
         border-radius: 0 0 5px 5px;
-        padding: 30px;
+        padding: 16px;
 
         .course-author {
             margin-bottom: 15px;
@@ -3827,7 +3827,7 @@ Courses Area CSS
             margin-bottom: 12px;
             line-height: 1.3;
             font: {
-                size: 20px;
+                size: 16px;
                 weight: 700;
             };
             a {
@@ -3845,7 +3845,7 @@ Courses Area CSS
             };
             li {
                 color: $optional-color;
-                font-size: 15px;
+                font-size: 14px;
                 position: relative;
                 padding: {
                     left: 25px;
