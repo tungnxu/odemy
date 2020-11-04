@@ -108,7 +108,7 @@ const routes: Routes = [
     {path: 'single-blog-2', component: BlogDetailsStyleTwoComponent},
     {path: 'single-blog-3', component: BlogDetailsStyleThreeComponent},
     {path: 'contact', component: ContactUsComponent},
-    { path: '', loadChildren: () => import('./main/main.module').then(m => m.MainModule) }
+    { path: '', loadChildren: () => import('./main/main.module').then(m => m.MainModule) },
 ];
 
 @NgModule({
