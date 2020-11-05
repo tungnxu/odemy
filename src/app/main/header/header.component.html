@@ -90,75 +90,48 @@
                             </ul>
                         </li>
 
-                        <li class="nav-item megamenu"><a href="javascript:void(0)" class="nav-link">Trường học <i class='bx bx-chevron-down'></i></a>
+                        <li class="nav-item"><a href="javascript:void(0)" class="nav-link">Trường học <i class='bx bx-chevron-down'></i></a>
                             <ul class="dropdown-menu">
-                                <li class="nav-item">
-                                    <div class="container">
-                                        <div class="row">
-                                            <div class="col">
-                                                <h6 class="text-uppercase">Học viên</h6>
-                                                <ul class="megamenu-submenu">
-                                                    <li><a routerLink="/courses-1" routerLinkActive="active"[routerLinkActiveOptions]="{exact: true}">Công cụ học tập</a></li>
+                                <li class="nav-item"><a routerLink="/school/become-a-student" href="javascript:void(0)" class="nav-link">Học viên <i class='bx bx-chevron-right'></i></a>
+                                    <ul class="dropdown-menu">
+                                        <li class="nav-item"><a routerLink="/school/become-a-student" class="nav-link" routerLinkActive="active"[routerLinkActiveOptions]="{exact: true}">Trở thành học viên</a></li>
 
-                                                    <li><a routerLink="/courses-2" routerLinkActive="active"[routerLinkActiveOptions]="{exact: true}">Nhóm hỗ trợ học tập</a></li>
+                                        <li class="nav-item"><a routerLink="/school/become-a-freelancer" class="nav-link" routerLinkActive="active"[routerLinkActiveOptions]="{exact: true}">Trở thành cộng tác viên</a></li>
 
-                                                    <li><a routerLink="/courses-3" routerLinkActive="active"[routerLinkActiveOptions]="{exact: true}">Lịch sử học tập</a></li>
+                                        <li class="nav-item"><a routerLink="/school/quiz-result" class="nav-link" routerLinkActive="active"[routerLinkActiveOptions]="{exact: true}">Thi thử và kết quả thi</a></li>
 
-                                                    <li><a routerLink="/courses-4" routerLinkActive="active"[routerLinkActiveOptions]="{exact: true}">Thư viện học liệu miễn phí</a></li>
+                                    </ul>
+                                </li>
+                                
+                                <li class="nav-item"><a routerLink="/school/become-a-teacher" href="javascript:void(0)" class="nav-link">Giáo viên <i class='bx bx-chevron-right'></i></a>
+                                    <ul class="dropdown-menu">
+                                        <li class="nav-item"><a routerLink="/school/become-a-teacher" class="nav-link" routerLinkActive="active"[routerLinkActiveOptions]="{exact: true}">Trở thành giáo viên</a></li>
 
-                                                    <li><a routerLink="/courses-5" routerLinkActive="active"[routerLinkActiveOptions]="{exact: true}">Chính sách cho học sinh nghèo/tỉnh xa</a></li>
+                                        <li class="nav-item"><a routerLink="/school/teacher-policy" class="nav-link" routerLinkActive="active"[routerLinkActiveOptions]="{exact: true}">Chính sách cho giáo viên</a></li>
 
-                                                    <li><a routerLink="/courses-6" routerLinkActive="active"[routerLinkActiveOptions]="{exact: true}">Hệ thống thi thử</a></li>
+                                        <li class="nav-item"><a routerLink="/school/teacher" class="nav-link" routerLinkActive="active"[routerLinkActiveOptions]="{exact: true}">Danh sách giáo viên</a></li>
 
-                                                    <li><a routerLink="/courses-7" routerLinkActive="active"[routerLinkActiveOptions]="{exact: true}">Khuyến mãi các TT</a></li>
-                                                    <li><a routerLink="/courses-7" routerLinkActive="active"[routerLinkActiveOptions]="{exact: true}">Kiểm tra tư vấn trình độ</a></li>
-                                                    <li><a routerLink="/courses-7" routerLinkActive="active"[routerLinkActiveOptions]="{exact: true}">Kết nối gia sư</a></li>
-                                                    <li><a routerLink="/courses-7" routerLinkActive="active"[routerLinkActiveOptions]="{exact: true}">Khóa học tiêu chuẩn quốc tế</a></li>
-                                                </ul>
-                                            </div>
+                                    </ul>
+                                </li>
 
-                                            <div class="col">
-                                                <h6 class="text-uppercase">Giảng viên</h6>
-                                                <ul class="megamenu-submenu">
-                                                    <li><a routerLink="/single-courses-1" routerLinkActive="active"[routerLinkActiveOptions]="{exact: true}">Hợp tác đào tạo</a></li>
+                                <li class="nav-item"><a routerLink="/school/become-a-partner"  href="javascript:void(0)" class="nav-link">Đối tác <i class='bx bx-chevron-right'></i></a>
+                                    <ul class="dropdown-menu">
+                                        <li class="nav-item"><a routerLink="/school/become-a-partner" class="nav-link" routerLinkActive="active"[routerLinkActiveOptions]="{exact: true}">Trở thành đối tác</a></li>
 
-                                                    <li><a routerLink="/single-courses-2" routerLinkActive="active"[routerLinkActiveOptions]="{exact: true}">Danh sách giáo viên</a></li>
+                                        <li class="nav-item"><a routerLink="/school/partner" class="nav-link" routerLinkActive="active"[routerLinkActiveOptions]="{exact: true}">Đối tác tiêu biểu</a></li>
 
-                                                    <li><a routerLink="/categories" routerLinkActive="active"[routerLinkActiveOptions]="{exact: true}">Công cụ cho giáo viên</a></li>
-
-                                                    <li><a routerLink="/membership-levels" routerLinkActive="active"[routerLinkActiveOptions]="{exact: true}">Quy trình bán hàng</a></li>
-
-                                                </ul>
-                                            </div>
-
-                                            <div class="col">
-                                                <h6 class="text-uppercase">Đối tác</h6>
-                                                <ul class="megamenu-submenu">
-                                                    <li><a routerLink="/courses-1" routerLinkActive="active"[routerLinkActiveOptions]="{exact: true}">Hợp tác phân phối bài giảng</a></li>
-
-                                                    <li><a routerLink="/courses-2" routerLinkActive="active"[routerLinkActiveOptions]="{exact: true}">Cung cấp thư viện học liệu</a></li>
-
-                                                    <li><a routerLink="/courses-3" routerLinkActive="active"[routerLinkActiveOptions]="{exact: true}">Hợp tác bán hàng đa kênh</a></li>
-
-                                                    <li><a routerLink="/courses-4" routerLinkActive="active"[routerLinkActiveOptions]="{exact: true}">Hợp tác xây dựng lớp</a></li>
-
-                                                   </ul>
-                                            </div>
-
-                                        </div>
-
-                                    </div>
+                                    </ul>
                                 </li>
                             </ul>
-                        </li>
 
+                        </li>
 
                         <li class="nav-item"><a href="javascript:void(0)" class="nav-link">Thư viện <i class='bx bx-chevron-down'></i></a>
                             <ul class="dropdown-menu">
 
-                                <li class="nav-item"><a routerLink="/success-story" class="nav-link" routerLinkActive="active"[routerLinkActiveOptions]="{exact: true}">Thư viện học liệu theo chuyên đề</a></li>
+                                <li class="nav-item"><a routerLink="/success-story" class="nav-link" routerLinkActive="active"[routerLinkActiveOptions]="{exact: true}">Học liệu theo chuyên đề</a></li>
 
-                                <li class="nav-item"><a routerLink="/teacher" class="nav-link" routerLinkActive="active"[routerLinkActiveOptions]="{exact: true}">Thư viện học liệu theo lớp</a></li>
+                                <li class="nav-item"><a routerLink="/teacher" class="nav-link" routerLinkActive="active"[routerLinkActiveOptions]="{exact: true}">Học liệu theo lớp</a></li>
 
                                 <li class="nav-item"><a routerLink="/gallery" class="nav-link" routerLinkActive="active"[routerLinkActiveOptions]="{exact: true}">Video bài giảng miễn phí</a></li>
 
