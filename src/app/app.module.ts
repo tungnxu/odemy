@@ -1,5 +1,7 @@
 import { BrowserModule } from '@angular/platform-browser';
 import { NgModule } from '@angular/core';
+import { ConfigurationModule } from './core/configuration/configuration.module';
+import {CoreModule} from './core/core.module'
 
 import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
@@ -126,7 +128,10 @@ import { BlogDetailsStyleThreeComponent } from './components/pages/blog-details-
   ],
   imports: [
     BrowserModule,
-    AppRoutingModule
+    AppRoutingModule,
+    ConfigurationModule,
+    CoreModule
+
   ],
   providers: [],
   bootstrap: [AppComponent]
